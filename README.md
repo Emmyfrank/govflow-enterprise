@@ -289,7 +289,7 @@ Security-first development.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/govflow.git
+git clone https://github.com/Emmyfrank/govflow-enterprise.git
 
 cd govflow
 ```
